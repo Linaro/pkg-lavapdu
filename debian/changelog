@@ -1,3 +1,9 @@
+lavapdu (0.0.5-3) UNRELEASED; urgency=medium
+
+  * Remove myself from Uploaders
+
+ -- Antonio Terceiro <terceiro@debian.org>  Mon, 14 Aug 2017 14:53:26 -0400
+
 lavapdu (0.0.5-2) unstable; urgency=medium
 
   * Add Senthil Kumaran S (stylesen) as an uploader.
