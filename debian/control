@@ -39,6 +39,7 @@ Package: pdudaemon-client
 Architecture: all
 Depends: ${misc:Depends}, ${python3:Depends}
 Conflicts: lavapdu-client
+Multi-Arch: foreign
 Description: client for pdudaemon
  Pdudaemon provides a standard way of controlling power controllers,
  which can either be local devices or networked PDUs. On top of that it ensures

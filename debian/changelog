@@ -1,3 +1,10 @@
+pdudaemon (0.0.7-3) UNRELEASED; urgency=medium
+
+  * Apply multi-arch hints.
+    + pdudaemon-client: Add Multi-Arch: foreign.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 27 Oct 2020 07:27:06 -0000
+
 pdudaemon (0.0.7-2) unstable; urgency=medium
 
   * Add conflict on lavapdu-client which contains the same binary
